@@ -331,7 +331,6 @@ img {
   margin-bottom: 30px;
   padding: 0;
   max-width: 370px;
-  border: 1px solid #eeeeee;
 }
 .card-item:nth-child(3n) {
   margin-right: 0;
@@ -344,6 +343,7 @@ img {
 }
 .portfolio-box {
   padding: 20px 24px;
+  border: 1px solid #eeeeee;
 }
 .card-title {
   font-weight: 700;
@@ -355,13 +355,13 @@ img {
   margin-bottom: 4px;
 }
 .card-discription {
+  padding: 0;
+  margin: 0;
   color: var(--secondary-clr);
   font-weight: 400;
   font-size: 16px;
   line-height: 1.9;
   letter-spacing: 0.03em;
-  padding: 0;
-  margin: 0;
 }
 .footer {
   background-color: var(--secondary-bgd-clr);
