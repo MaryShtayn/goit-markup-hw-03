@@ -329,6 +329,7 @@ img {
   margin-top: 50px;
 }
 .card-item {
+  width: calc((100%-60px) / 3);
   margin-right: 30px;
   margin-bottom: 30px;
   padding: 0;
