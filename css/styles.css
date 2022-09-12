@@ -398,6 +398,7 @@ section.hero {
   padding-bottom: 60px;
 }
 .footer .logo {
+  display: block;
   color: var(--secondary-accent-clr);
   margin-bottom: 20px;
   font-family: var(--secondary-font);
